@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lorenzo025
 - 👀 I’m interested in Finance and Data. 
 - 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on building Automation Softwares for business processes. Interested in NFT blockchain tech aswell. 
+- 💞️ I’m looking to collaborate on building Automation Softwares for business processes. Interested in NFT blockchain tech also. 
 - 📫 How to reach me + Twitter @90_lolo_
 
 <!---
